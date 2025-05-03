@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+
+# Navigation (Optional)
+title: "EDA and Feature Engineering"
+description: "Fundamentals of Exploratory Data Analysis and Feature Engineering."
+
+# Enable navigation links
+include:
+  - chapters/
